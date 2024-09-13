@@ -29,7 +29,7 @@
 
 
 
-[![Te Amo Mama Gameplay Teaser](images/'Hen-poster.png')](https://youtu.be/iiPUPQ4pSTU)
+[![Te Amo Mama Gameplay Teaser](images/Hen-poster.png)](https://youtu.be/iiPUPQ4pSTU)
 
 
 
@@ -53,7 +53,7 @@
 
 
 
-[![Unthanked Hero Gameplay](images/'Title-Screen.jpg')](https://youtu.be/WcanVeg83EY)
+[![Unthanked Hero Gameplay](images/Title-Screen.jpg)](https://youtu.be/WcanVeg83EY)
 
 
 
