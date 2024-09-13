@@ -41,7 +41,7 @@
 
 
 
-[![Pussy Punchout Gameplay](images/PP_title.jpg)}(https://youtu.be/s_kFKqrWlxk)
+[![Pussy Punchout Gameplay](images/PP_title.png)](https://youtu.be/s_kFKqrWlxk)
 
 
 
