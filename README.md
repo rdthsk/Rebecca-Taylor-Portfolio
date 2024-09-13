@@ -11,7 +11,7 @@
   For Camino, I handled many of the technical responsibilities. This included: Enemy AI using state machines, creating camera effects with Unity’s Cinemachine tool, gameplay programming, tools programming,  input handling, build automation, version control, crash and bug investigation, delegating tasks to my secondary programmer, using the Google Play Console, and porting the game to both Android and Steam. Learn more about Camino [here.](https://gameheads.itch.io/camino) And watch the teaser trailer below!
 
 
-[![Camino Teaser](https://github.com/rdthsk/Rebecca-Taylor-Portfolio/blob/main/images/kXzFFN.jpg)](https://github.com/rdthsk/Rebecca-Taylor-Portfolio/blob/main/videos/Camino%20Teaser.mp4)
+[![Camino Teaser](images/caminoPoster.png)](https://youtu.be/YMHl3__A93Q?si=9mRP7zfDgwjHThwg)
 
 
 ### Te Amo Mama
