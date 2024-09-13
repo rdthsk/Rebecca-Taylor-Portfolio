@@ -63,6 +63,9 @@
   LUCiD was my first experience working on a game development team on a long term basis. LUCiD was a challenge for me as a very young programmer since it was my first time working on a project with that many moving parts, such as having two independently controlled players and figuring out camera movement if either of the two players decided to wander away from the other. However, this project served as a teeth cutting project in that working on it prepared me for a lot of experiences I would have in the coming years.
   LUCiD is available for download [here.](https://gameheads.itch.io/lucid) 
 
+
+![LUCiD Title](images/LUCiDTitle.jpg)
+
 ![LUCiD Screenshot 1](https://github.com/user-attachments/assets/2473f219-20a0-4867-8c52-fcf908704d58)
 
 ![LUCiD Screenshot 2](https://github.com/user-attachments/assets/d42b24d5-10eb-43f3-9633-618646dc1b9b)
