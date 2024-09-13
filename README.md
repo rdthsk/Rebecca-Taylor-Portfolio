@@ -3,7 +3,12 @@
   The Gameheads Fellowship program provides grants and contracts to SAP teams who have both a strong game idea and development team structure so see the SAP demo developed into a full, released game. California 100 was a two year initiative from 2021-2023 focused on inspiring a vision and strategy for CA’s future for the next 100 years.
   A few months after the release of Camino, Team Bruja Bros and Gameheads collaborated with Cal 100 to create a piece of interactive media that would be on the Cal 100 website and serve as a way for visitors to learn more about the initiative and it’s plans,
   For CALI REMIX, I gained experience in developing a project for a customer, quickly modifying and adapting to changes in design, and deploying WebGL builds. Play CALI REMIX [here.](https://california100.org/cali-remix-game/)
+
+
+
 ![Cali Remix Title Screen Caps](https://github.com/user-attachments/assets/7bc448e6-219b-4763-8594-05f36eaadd3f)
+
+
 
 ### Camino
   Camino is a 2D side-scrolling stealth game with Afro-surrealist elements that challenge the player to carefully manage resources and make use of their environment to fight for their loved ones and survive the onslaught of colonization.
@@ -11,7 +16,9 @@
   For Camino, I handled many of the technical responsibilities. This included: Enemy AI using state machines, creating camera effects with Unity’s Cinemachine tool, gameplay programming, tools programming,  input handling, build automation, version control, crash and bug investigation, delegating tasks to my secondary programmer, using the Google Play Console, and porting the game to both Android and Steam. Learn more about Camino [here.](https://gameheads.itch.io/camino) And watch the teaser trailer below!
 
 
+
 [![Camino Teaser](images/caminoPoster.png)](https://youtu.be/YMHl3__A93Q?si=9mRP7zfDgwjHThwg)
+
 
 
 ### Te Amo Mama
@@ -20,10 +27,11 @@
   For Te Amo Mamá, I created an input and audio manager, created cutscenes in Unity’s Timeline tool, started to create camera effects with Unity Cinemachine tool, and collaborated with animators on SFX.
   Te Amo Mama is available for download [here.](https://gameheads.itch.io/te-amo-mama)  And watch the gameplay teaser below!
 
-  
-https://github.com/user-attachments/assets/8957b29a-a5bf-4b5d-b3f3-69db9ba3699d
 
-![Hen poster](https://github.com/user-attachments/assets/31bf014a-8a87-4502-bb94-2faf0fa303b7)
+
+[![Te Amo Mama Gameplay Teaser](images/'Hen-poster.png')](https://youtu.be/iiPUPQ4pSTU)
+
+
 
 ### Pussy Punchout
 
@@ -32,9 +40,9 @@ https://github.com/user-attachments/assets/8957b29a-a5bf-4b5d-b3f3-69db9ba3699d
   Pussy Punchout is available for download [here.](https://gameheads.itch.io/pussy-punchout) And watch gameplay below!
 
 
-https://github.com/user-attachments/assets/017c823e-bca5-4483-b6ec-2436857a27f4
 
-![PP_title](https://github.com/user-attachments/assets/79c45c46-afff-443e-ba57-8cd3119480a1)
+[![Pussy Punchout Gameplay](images/PP_title.jpg)}(https://youtu.be/s_kFKqrWlxk)
+
 
 
 ### Unthanked Hero
@@ -43,9 +51,11 @@ https://github.com/user-attachments/assets/017c823e-bca5-4483-b6ec-2436857a27f4
   The Unthanked Hero was my first time working on a game outside of the platformer genre and my first time prototyping not only one enemy, but multiple enemy types. This was also the project where I began to have an interest in gameplay/mechanics programming. Since the player was a superhero, we could have a bit of creativity with machines which lead to developing both a flying and a metal ability.
   Unthanked Hero is available for download  [here.](https://gameheads.itch.io/unthanked-hero) And watch gameplay below!
 
-https://github.com/user-attachments/assets/8f81b561-b50c-41fe-9012-9c2be5742739
 
-![Title Screen](https://github.com/user-attachments/assets/ddeae321-5e15-4e0c-872d-5e1f16102447)
+
+[![Unthanked Hero Gameplay](images/'Title-Screen.jpg')](https://youtu.be/WcanVeg83EY)
+
+
 
 ### LUCiD
 
